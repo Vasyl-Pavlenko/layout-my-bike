@@ -6,6 +6,10 @@ const textArea = document.querySelector('#form-textarea');
 const textareaResizer = document.querySelector('#textarea-resizer');
 const toTop = document.querySelector('.to-top');
 
+if (window.location.hash === '#menu') {
+  document.body.classList.add('page__body--with-menu');
+}
+
 window.addEventListener('hashchange', () => {
   if (window.location.hash === '#menu') {
     document.body.classList.add('page__body--with-menu');
