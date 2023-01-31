@@ -5,8 +5,8 @@ Landing page has been adapted for mobile, tablet and desktop.
 During development of this landing page, I used the following technologies of HTML, CSS, preprocessing SASS and few lines of Javascript:
 
 1. HTML:
-    Semantically correct CODE STYLE
-    BEM Methodology
+    - Semantically correct CODE STYLE
+    - BEM Methodology
 
 2. CSS:
     - Animations
