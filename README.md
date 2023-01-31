@@ -5,22 +5,22 @@ Landing page has been adapted for mobile, tablet and desktop.
 During development of this landing page, I used the following technologies of HTML, CSS, preprocessing SASS and few lines of Javascript:
 
 1. HTML:
-  1.1. Semantically correct CODE STYLE
-  1.2. BEM Methodology
+ - Semantically correct CODE STYLE
+ - BEM Methodology
 
 2. CSS:
-  2.1. Animations
-  2.2. Flexbox
-  2.3. Media queries
-  2.4. Grid
-  2.5. Transformations
+  - Animations
+  - Flexbox
+  - Media queries
+  - Grid
+  - Transformations
 
 3. in SSAS / SCSS preprocessor the following tools:
-  3.1. Nesting and &
-  3.2. loop @for
-  3.3. variables
-  3.4. @mixins
-  3.5. Using @media in SCSS
+  - Nesting and &
+  - loop @for
+  - variables
+  - @mixins
+  - Using @media in SCSS
 
 Link for design:
 
